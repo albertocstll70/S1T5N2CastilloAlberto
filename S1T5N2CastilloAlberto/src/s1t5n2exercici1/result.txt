@@ -1,0 +1,900 @@
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 01:42 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 01:54 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:07 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:14 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:16 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:23 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:26 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:27 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.classpath  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.project  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/.settings/org.eclipse.jdt.core.prefs  ultima modificación --> jul. 28, 2022 09:20 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/e  ultima modificación --> sept. 15, 2022 10:33 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/ListAlfa3.class  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/MainExercici3.class  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/bin/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y  ultima modificación --> jul. 28, 2022 04:44 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/a/n/b/z/y/a.txt  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/b/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/c/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/d/a.txt  ultima modificación --> jul. 28, 2022 04:37 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/e  ultima modificación --> jul. 28, 2022 04:36 p. m.
+
+D: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1  ultima modificación --> sept. 15, 2022 10:58 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/ListAlfa3.java  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/MainExercici3.java  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/archivo.properties  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
+F: /home/alberto/itacademy/Sprint1/tasca5/N2/S1T5N2CastilloAlberto/src/s1t5n2exercici1/result.txt  ultima modificación --> sept. 15, 2022 11:29 a. m.
+
